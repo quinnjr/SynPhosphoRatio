@@ -1,0 +1,4 @@
+total	demo_total.csv
+phospho	demo_phospho.csv
+log_inputs	true
+zero_guard	1e-6

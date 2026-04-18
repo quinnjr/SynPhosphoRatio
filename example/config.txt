@@ -1,0 +1,2 @@
+Prefix plugins/SynPhosphoRatio/example
+Plugin SynPhosphoRatio inputfile parameters.synphospho.txt outputfile ps129_ratio.tsv
